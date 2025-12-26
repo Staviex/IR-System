@@ -22,4 +22,6 @@ python -m venv .venv
 source .venv/bin/activate
 
 Then install the required libraries:
+
+```bash
 pip install -r requirements.txt
